@@ -1,0 +1,15 @@
+cuenta creada
+deposito: 500, New balance: 1500
+cuenta creada
+consulta de saldo, Balance actual: 1000
+cuenta creada
+deposito: 200, New balance: 1200
+cuenta creada
+consulta de saldo, Balance actual: 1000
+cuenta creada
+cuenta creada
+transferencia: 300 a <src.bank_account.BankAccount object at 0x71157a849580>, New balance: 1000
+recibido: 300 de <src.bank_account.BankAccount object at 0x71157a849580>, New balance: 1000
+consulta de saldo, Balance actual: 1000
+cuenta creada
+retiro: 300, New balance: 700
